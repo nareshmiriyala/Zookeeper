@@ -12,6 +12,9 @@ import java.util.concurrent.CountDownLatch;
 
 // import zookeeper classes
 
+/**
+ * http://www.tutorialspoint.com/zookeeper/zookeeper_applications.htm
+ */
 public class ZooKeeperConnection {
 
     // declare zookeeper instance to access ZooKeeper ensemble
